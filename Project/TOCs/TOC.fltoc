@@ -3,11 +3,11 @@
   Version="1" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/NewFolder1/Article.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    Link="/Content/Apple/Article.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/NewFolder1/Release-Notes.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"></TocEntry>
+    Link="/Content/Apple/Release-Notes.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"></TocEntry>
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/NewFolder1/System-Requirements.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    Link="/Content/Apple/System-Requirements.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
 </CatapultToc>
